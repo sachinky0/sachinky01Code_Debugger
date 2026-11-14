@@ -42,7 +42,7 @@ Project structure
 Setup
 bash
 # 1. Clone
-git clone https://github.com/<your-username>/<repo-name>.git
+git clone https://github.com/sachinky0/sachinky01Code_Debugger.git
 cd <repo-name>
 
 # 2. Create and activate a virtual environment
