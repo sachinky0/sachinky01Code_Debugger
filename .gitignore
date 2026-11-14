@@ -1,0 +1,22 @@
+# Virtual environments
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+
+# Vector store (rebuilt automatically from the PDF)
+chroma_db/
+debug_kb/
+
+# Streamlit secrets (keep config.toml, it holds the theme)
+.streamlit/secrets.toml
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store

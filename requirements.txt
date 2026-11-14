@@ -1,0 +1,23 @@
+# RAG framework
+langchain
+langchain-community
+langchain-text-splitters
+
+# Mistral AI (LLM via API)
+langchain-mistralai
+mistralai
+
+# Hugging Face embeddings (local)
+sentence-transformers
+langchain-huggingface
+
+# Vector database
+chromadb
+langchain-chroma
+
+# Document loading
+pypdf
+
+# Config and UI
+python-dotenv
+streamlit
